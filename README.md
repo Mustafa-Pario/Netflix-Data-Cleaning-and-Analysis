@@ -34,13 +34,12 @@ The project focuses on:
 
 ## 📁 Project Structure
 
-Netflix-Data-Cleaning-and-Analysis/
-│
-├── Dataset/netflix_titles.csv
-├── data_extraction/netflix_data_extract.ipynb
-├── data_Analysis/netflix_data_analysis.ipynb
-├── requirements.txt
-└── README.md
+- Netflix-Data-Cleaning-and-Analysis
+   - Dataset/netflix_titles.csv
+   - data_extraction/netflix_data_extract.ipynb
+   - data_Analysis/netflix_data_analysis.ipynb
+   - requirements.txt
+   - README.md
 
 
 
