@@ -6,6 +6,13 @@ cleans, transforms, and analyzes Netflix dataset data using Python and SQL Serve
 The project demonstrates a practical data workflow from raw CSV ingestion
 to structured SQL-based analysis.
 
+
+<p align="center">
+  <img width="1200" height="600" alt="ELT Diagram"
+       src="https://github.com/user-attachments/assets/f96f82f7-eacc-4b70-973b-2ca7091b69c1" />
+</p>
+
+
 ---
 
 ## 🚀 Project Overview
