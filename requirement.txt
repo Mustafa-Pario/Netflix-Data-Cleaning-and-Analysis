@@ -1,0 +1,9 @@
+# Data Manipulation
+pandas
+
+# Database Connectivity
+sqlalchemy
+
+#SQL SERVER
+Data Analysis
+
